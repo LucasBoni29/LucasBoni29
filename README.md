@@ -20,7 +20,7 @@
     <img align ="center"alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Gosto muito da tecnologia e dos Games que ela proporciona junto dá programação. Faço curso Profissionalizante de TI no CEAP.
+Gosto muito da tecnologia e dos Games que ela proporciona junto dá programação. Faço Curso Técnico de TI no CEAP.
 
 ## <Strong> Hobbies
 
